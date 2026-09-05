@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# folders
+Documents/
+Photos/
+others/
+Videos/
+Music/
